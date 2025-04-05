@@ -1,8 +1,8 @@
 # springpostgres
 
 ### Prerequisites 
-- Java installed JAVA_HOME is added in patch
-- Maven is added and M2_HOME is added in patch
+- Java is installed and JAVA_HOME is added in path
+- Maven is added and M2_HOME is added in path
 
 Verify by 
 ``` echo $JAVA_HOME```
