@@ -1,7 +1,15 @@
 # springpostgres
 
 ### Prerequisites 
+- Java installed JAVA_HOME is added in patch
+- Maven is added and M2_HOME is added in patch
+
+Verify by 
+``` echo $JAVA_HOME```
+```echo $M2_HOME```
 Create a "store" DB and seed the data 
+
+In Intellij, maven build tool is configured properly 
 
 ### To seed the data 
 ```brew install postgresql```
